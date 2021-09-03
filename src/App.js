@@ -7,7 +7,7 @@ function App() {
     <section class="container">
       <h3>{people.length} birthdays today!</h3>
       <List people = {people}/>
-      <button onClick={() => {console.log("you clicked me!")}} > Click Me!</button>
+      <button onClick={() => {setPeople([])}} > Click Me!</button>
     </section>
   </main> );
 }
