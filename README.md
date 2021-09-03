@@ -1,6 +1,3 @@
-# Birthday-Reminder-ReactJs
+## Idea
 
-A React Js project:
-
-Steps to follow to run project locally:
-
+[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
